@@ -1,5 +1,9 @@
 ### welcome to my github 
 
+<img src="https://raw.githubusercontent.com/sujaanr/sujaanr/output/snake.svg" alt="Snake animation" />
+
+### 
+
 hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business and computer science. I’m passionate about learning new ways to incorporate public health, corporate social responsibility, and sustainability within global business practices.
 
 outside of class you can catch me at the park practicing basketball, cycling through the city, or on the lake starting my novice rowing career.
