@@ -1,4 +1,4 @@
-### welcome to my github 👋
+### welcome to my github 
 
 hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business. I’m passionate about learning new ways to incorporate public health, corporate social responsibility, and sustainability within global business practices.
 
