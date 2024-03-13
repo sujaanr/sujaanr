@@ -1,8 +1,12 @@
 ### welcome to my github 
 
-<img src="https://raw.githubusercontent.com/sujaanr/sujaanr/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/sujaanr">
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=sujaanr&count=5&unique=true](https://open.spotify.com/playlist/36A02AVs6N9CFD1Myl6U5E)" alt="Spotify recently played"  />
+  </a>
+</div>
 
-### 
+###
 
 hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business and computer science. I’m passionate about learning new ways to incorporate public health, corporate social responsibility, and sustainability within global business practices.
 
