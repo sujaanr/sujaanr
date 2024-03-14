@@ -1,6 +1,6 @@
 ### welcome to my page ! 
 
-hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business and computer science. I’m passionate about learning new ways to incorporate public health, corporate social responsibility, and sustainability within global business practices.
+hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business and computer science. 
 
 i'm currently learning about mathematical modeling, data visualization, and the implementation of machine learning algorithms. as an aspiring data scientist, I'm excited to further understand the broader impacts of data on everyday systems and society at large.
 
