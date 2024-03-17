@@ -2,7 +2,7 @@
 
 hi, I’m a graduate student at the university of toronto majoring in data science with prior undergraduate studies in business and computer science. 
 
-i'm currently learning about mathematical modeling, research metholodogies, and the implementation of machine learning algorithms. as an aspiring data scientist, I'm excited to further understand the broader impacts of data on everyday systems and society at large.
+i'm currently learning about mathematical modeling, research methodologies, and the implementation of machine learning algorithms. as an aspiring data scientist, I'm excited to further understand the broader impacts of data on everyday systems and society at large.
 
 <!--
 **sujaanr/sujaanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
